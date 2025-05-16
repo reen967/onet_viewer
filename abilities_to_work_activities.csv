@@ -1,0 +1,382 @@
+﻿PK,Abilities Element ID,Abilities Element Name,Work Activities Element ID,Work Activities Element Name
+1,1.A.1.a.1,Oral Comprehension,4.A.1.a.1,Getting Information
+2,1.A.1.a.1,Oral Comprehension,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+3,1.A.1.a.1,Oral Comprehension,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+4,1.A.1.a.1,Oral Comprehension,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People"
+5,1.A.1.a.1,Oral Comprehension,4.A.2.a.2,Processing Information
+6,1.A.1.a.1,Oral Comprehension,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+7,1.A.1.a.1,Oral Comprehension,4.A.2.b.3,Updating and Using Relevant Knowledge
+8,1.A.1.a.1,Oral Comprehension,4.A.4.a.1,Interpreting the Meaning of Information for Others
+9,1.A.1.a.1,Oral Comprehension,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+10,1.A.1.a.1,Oral Comprehension,4.A.4.a.3,Communicating with People Outside the Organization
+11,1.A.1.a.1,Oral Comprehension,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships
+12,1.A.1.a.1,Oral Comprehension,4.A.4.a.5,Assisting and Caring for Others
+13,1.A.1.a.1,Oral Comprehension,4.A.4.a.6,Selling or Influencing Others
+14,1.A.1.a.1,Oral Comprehension,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+15,1.A.1.a.1,Oral Comprehension,4.A.4.a.8,Performing for or Working Directly with the Public
+16,1.A.1.a.1,Oral Comprehension,4.A.4.b.1,Coordinating the Work and Activities of Others
+17,1.A.1.a.1,Oral Comprehension,4.A.4.b.2,Developing and Building Teams
+18,1.A.1.a.1,Oral Comprehension,4.A.4.b.3,Training and Teaching Others
+19,1.A.1.a.1,Oral Comprehension,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+20,1.A.1.a.1,Oral Comprehension,4.A.4.b.5,Coaching and Developing Others
+21,1.A.1.a.1,Oral Comprehension,4.A.4.b.6,Providing Consultation and Advice to Others
+22,1.A.1.a.1,Oral Comprehension,4.A.4.c.2,Staffing Organizational Units
+23,1.A.1.a.1,Oral Comprehension,4.A.4.c.3,Monitoring and Controlling Resources
+24,1.A.1.a.2,Written Comprehension,4.A.1.a.1,Getting Information
+25,1.A.1.a.2,Written Comprehension,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+26,1.A.1.a.2,Written Comprehension,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+27,1.A.1.a.2,Written Comprehension,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People"
+28,1.A.1.a.2,Written Comprehension,4.A.2.a.2,Processing Information
+29,1.A.1.a.2,Written Comprehension,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+30,1.A.1.a.2,Written Comprehension,4.A.2.a.4,Analyzing Data or Information
+31,1.A.1.a.2,Written Comprehension,4.A.2.b.1,Making Decisions and Solving Problems
+32,1.A.1.a.2,Written Comprehension,4.A.2.b.3,Updating and Using Relevant Knowledge
+33,1.A.1.a.2,Written Comprehension,4.A.3.b.1,Working with Computers
+34,1.A.1.a.2,Written Comprehension,4.A.3.b.6,Documenting/Recording Information
+35,1.A.1.a.2,Written Comprehension,4.A.4.a.1,Interpreting the Meaning of Information for Others
+36,1.A.1.a.2,Written Comprehension,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+37,1.A.1.a.2,Written Comprehension,4.A.4.a.3,Communicating with People Outside the Organization
+38,1.A.1.a.2,Written Comprehension,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+39,1.A.1.a.2,Written Comprehension,4.A.4.b.3,Training and Teaching Others
+40,1.A.1.a.2,Written Comprehension,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+41,1.A.1.a.2,Written Comprehension,4.A.4.b.6,Providing Consultation and Advice to Others
+42,1.A.1.a.2,Written Comprehension,4.A.4.c.1,Performing Administrative Activities
+43,1.A.1.a.2,Written Comprehension,4.A.4.c.2,Staffing Organizational Units
+44,1.A.1.a.2,Written Comprehension,4.A.4.c.3,Monitoring and Controlling Resources
+45,1.A.1.a.3,Oral Expression,4.A.1.a.1,Getting Information
+46,1.A.1.a.3,Oral Expression,4.A.2.b.4,Developing Objectives and Strategies
+47,1.A.1.a.3,Oral Expression,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+48,1.A.1.a.3,Oral Expression,4.A.4.a.1,Interpreting the Meaning of Information for Others
+49,1.A.1.a.3,Oral Expression,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+50,1.A.1.a.3,Oral Expression,4.A.4.a.3,Communicating with People Outside the Organization
+51,1.A.1.a.3,Oral Expression,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships
+52,1.A.1.a.3,Oral Expression,4.A.4.a.5,Assisting and Caring for Others
+53,1.A.1.a.3,Oral Expression,4.A.4.a.6,Selling or Influencing Others
+54,1.A.1.a.3,Oral Expression,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+55,1.A.1.a.3,Oral Expression,4.A.4.a.8,Performing for or Working Directly with the Public
+56,1.A.1.a.3,Oral Expression,4.A.4.b.1,Coordinating the Work and Activities of Others
+57,1.A.1.a.3,Oral Expression,4.A.4.b.2,Developing and Building Teams
+58,1.A.1.a.3,Oral Expression,4.A.4.b.3,Training and Teaching Others
+59,1.A.1.a.3,Oral Expression,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+60,1.A.1.a.3,Oral Expression,4.A.4.b.5,Coaching and Developing Others
+61,1.A.1.a.3,Oral Expression,4.A.4.b.6,Providing Consultation and Advice to Others
+62,1.A.1.a.3,Oral Expression,4.A.4.c.2,Staffing Organizational Units
+63,1.A.1.a.4,Written Expression,4.A.2.b.4,Developing Objectives and Strategies
+64,1.A.1.a.4,Written Expression,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+65,1.A.1.a.4,Written Expression,4.A.3.b.6,Documenting/Recording Information
+66,1.A.1.a.4,Written Expression,4.A.4.a.1,Interpreting the Meaning of Information for Others
+67,1.A.1.a.4,Written Expression,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+68,1.A.1.a.4,Written Expression,4.A.4.a.3,Communicating with People Outside the Organization
+69,1.A.1.a.4,Written Expression,4.A.4.a.6,Selling or Influencing Others
+70,1.A.1.a.4,Written Expression,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+71,1.A.1.a.4,Written Expression,4.A.4.b.1,Coordinating the Work and Activities of Others
+72,1.A.1.a.4,Written Expression,4.A.4.b.2,Developing and Building Teams
+73,1.A.1.a.4,Written Expression,4.A.4.b.3,Training and Teaching Others
+74,1.A.1.a.4,Written Expression,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+75,1.A.1.a.4,Written Expression,4.A.4.b.6,Providing Consultation and Advice to Others
+76,1.A.1.a.4,Written Expression,4.A.4.c.1,Performing Administrative Activities
+77,1.A.1.a.4,Written Expression,4.A.4.c.2,Staffing Organizational Units
+78,1.A.1.b.1,Fluency of Ideas,4.A.2.b.1,Making Decisions and Solving Problems
+79,1.A.1.b.1,Fluency of Ideas,4.A.2.b.2,Thinking Creatively
+80,1.A.1.b.1,Fluency of Ideas,4.A.2.b.4,Developing Objectives and Strategies
+81,1.A.1.b.1,Fluency of Ideas,4.A.4.a.6,Selling or Influencing Others
+82,1.A.1.b.1,Fluency of Ideas,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+83,1.A.1.b.1,Fluency of Ideas,4.A.4.b.1,Coordinating the Work and Activities of Others
+84,1.A.1.b.1,Fluency of Ideas,4.A.4.b.2,Developing and Building Teams
+85,1.A.1.b.1,Fluency of Ideas,4.A.4.b.3,Training and Teaching Others
+86,1.A.1.b.1,Fluency of Ideas,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+87,1.A.1.b.1,Fluency of Ideas,4.A.4.b.5,Coaching and Developing Others
+88,1.A.1.b.1,Fluency of Ideas,4.A.4.b.6,Providing Consultation and Advice to Others
+89,1.A.1.b.2,Originality,4.A.2.b.1,Making Decisions and Solving Problems
+90,1.A.1.b.2,Originality,4.A.2.b.2,Thinking Creatively
+91,1.A.1.b.2,Originality,4.A.2.b.4,Developing Objectives and Strategies
+92,1.A.1.b.2,Originality,4.A.4.a.6,Selling or Influencing Others
+93,1.A.1.b.2,Originality,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+94,1.A.1.b.2,Originality,4.A.4.b.1,Coordinating the Work and Activities of Others
+95,1.A.1.b.2,Originality,4.A.4.b.2,Developing and Building Teams
+96,1.A.1.b.2,Originality,4.A.4.b.3,Training and Teaching Others
+97,1.A.1.b.2,Originality,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+98,1.A.1.b.2,Originality,4.A.4.b.5,Coaching and Developing Others
+99,1.A.1.b.2,Originality,4.A.4.b.6,Providing Consultation and Advice to Others
+100,1.A.1.b.3,Problem Sensitivity,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+101,1.A.1.b.3,Problem Sensitivity,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+102,1.A.1.b.3,Problem Sensitivity,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+103,1.A.1.b.3,Problem Sensitivity,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+104,1.A.1.b.3,Problem Sensitivity,4.A.2.b.1,Making Decisions and Solving Problems
+105,1.A.1.b.3,Problem Sensitivity,4.A.2.b.4,Developing Objectives and Strategies
+106,1.A.1.b.3,Problem Sensitivity,4.A.2.b.5,Scheduling Work and Activities
+107,1.A.1.b.3,Problem Sensitivity,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work"
+108,1.A.1.b.3,Problem Sensitivity,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+109,1.A.1.b.3,Problem Sensitivity,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+110,1.A.1.b.3,Problem Sensitivity,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+111,1.A.1.b.3,Problem Sensitivity,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships
+112,1.A.1.b.3,Problem Sensitivity,4.A.4.a.5,Assisting and Caring for Others
+113,1.A.1.b.3,Problem Sensitivity,4.A.4.a.6,Selling or Influencing Others
+114,1.A.1.b.3,Problem Sensitivity,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+115,1.A.1.b.3,Problem Sensitivity,4.A.4.a.8,Performing for or Working Directly with the Public
+116,1.A.1.b.3,Problem Sensitivity,4.A.4.b.1,Coordinating the Work and Activities of Others
+117,1.A.1.b.3,Problem Sensitivity,4.A.4.b.2,Developing and Building Teams
+118,1.A.1.b.3,Problem Sensitivity,4.A.4.b.3,Training and Teaching Others
+119,1.A.1.b.3,Problem Sensitivity,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+120,1.A.1.b.3,Problem Sensitivity,4.A.4.b.5,Coaching and Developing Others
+121,1.A.1.b.3,Problem Sensitivity,4.A.4.b.6,Providing Consultation and Advice to Others
+122,1.A.1.b.3,Problem Sensitivity,4.A.4.c.2,Staffing Organizational Units
+123,1.A.1.b.3,Problem Sensitivity,4.A.4.c.3,Monitoring and Controlling Resources
+124,1.A.1.b.4,Deductive Reasoning,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+125,1.A.1.b.4,Deductive Reasoning,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+126,1.A.1.b.4,Deductive Reasoning,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+127,1.A.1.b.4,Deductive Reasoning,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+128,1.A.1.b.4,Deductive Reasoning,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People"
+129,1.A.1.b.4,Deductive Reasoning,4.A.2.a.2,Processing Information
+130,1.A.1.b.4,Deductive Reasoning,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+131,1.A.1.b.4,Deductive Reasoning,4.A.2.a.4,Analyzing Data or Information
+132,1.A.1.b.4,Deductive Reasoning,4.A.2.b.1,Making Decisions and Solving Problems
+133,1.A.1.b.4,Deductive Reasoning,4.A.2.b.3,Updating and Using Relevant Knowledge
+134,1.A.1.b.4,Deductive Reasoning,4.A.2.b.4,Developing Objectives and Strategies
+135,1.A.1.b.4,Deductive Reasoning,4.A.2.b.5,Scheduling Work and Activities
+136,1.A.1.b.4,Deductive Reasoning,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work"
+137,1.A.1.b.4,Deductive Reasoning,4.A.3.b.1,Working with Computers
+138,1.A.1.b.4,Deductive Reasoning,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+139,1.A.1.b.4,Deductive Reasoning,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+140,1.A.1.b.4,Deductive Reasoning,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+141,1.A.1.b.4,Deductive Reasoning,4.A.4.a.1,Interpreting the Meaning of Information for Others
+142,1.A.1.b.4,Deductive Reasoning,4.A.4.a.5,Assisting and Caring for Others
+143,1.A.1.b.4,Deductive Reasoning,4.A.4.a.6,Selling or Influencing Others
+144,1.A.1.b.4,Deductive Reasoning,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+145,1.A.1.b.4,Deductive Reasoning,4.A.4.a.8,Performing for or Working Directly with the Public
+146,1.A.1.b.4,Deductive Reasoning,4.A.4.b.1,Coordinating the Work and Activities of Others
+147,1.A.1.b.4,Deductive Reasoning,4.A.4.b.2,Developing and Building Teams
+148,1.A.1.b.4,Deductive Reasoning,4.A.4.b.3,Training and Teaching Others
+149,1.A.1.b.4,Deductive Reasoning,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+150,1.A.1.b.4,Deductive Reasoning,4.A.4.b.5,Coaching and Developing Others
+151,1.A.1.b.4,Deductive Reasoning,4.A.4.b.6,Providing Consultation and Advice to Others
+152,1.A.1.b.4,Deductive Reasoning,4.A.4.c.1,Performing Administrative Activities
+153,1.A.1.b.4,Deductive Reasoning,4.A.4.c.2,Staffing Organizational Units
+154,1.A.1.b.4,Deductive Reasoning,4.A.4.c.3,Monitoring and Controlling Resources
+155,1.A.1.b.5,Inductive Reasoning,4.A.1.a.1,Getting Information
+156,1.A.1.b.5,Inductive Reasoning,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+157,1.A.1.b.5,Inductive Reasoning,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+158,1.A.1.b.5,Inductive Reasoning,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+159,1.A.1.b.5,Inductive Reasoning,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+160,1.A.1.b.5,Inductive Reasoning,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People"
+161,1.A.1.b.5,Inductive Reasoning,4.A.2.a.2,Processing Information
+162,1.A.1.b.5,Inductive Reasoning,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+163,1.A.1.b.5,Inductive Reasoning,4.A.2.a.4,Analyzing Data or Information
+164,1.A.1.b.5,Inductive Reasoning,4.A.2.b.1,Making Decisions and Solving Problems
+165,1.A.1.b.5,Inductive Reasoning,4.A.2.b.2,Thinking Creatively
+166,1.A.1.b.5,Inductive Reasoning,4.A.2.b.3,Updating and Using Relevant Knowledge
+167,1.A.1.b.5,Inductive Reasoning,4.A.2.b.4,Developing Objectives and Strategies
+168,1.A.1.b.5,Inductive Reasoning,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work"
+169,1.A.1.b.5,Inductive Reasoning,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+170,1.A.1.b.5,Inductive Reasoning,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+171,1.A.1.b.5,Inductive Reasoning,4.A.4.a.1,Interpreting the Meaning of Information for Others
+172,1.A.1.b.5,Inductive Reasoning,4.A.4.a.5,Assisting and Caring for Others
+173,1.A.1.b.5,Inductive Reasoning,4.A.4.a.6,Selling or Influencing Others
+174,1.A.1.b.5,Inductive Reasoning,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+175,1.A.1.b.5,Inductive Reasoning,4.A.4.b.1,Coordinating the Work and Activities of Others
+176,1.A.1.b.5,Inductive Reasoning,4.A.4.b.2,Developing and Building Teams
+177,1.A.1.b.5,Inductive Reasoning,4.A.4.b.3,Training and Teaching Others
+178,1.A.1.b.5,Inductive Reasoning,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+179,1.A.1.b.5,Inductive Reasoning,4.A.4.b.5,Coaching and Developing Others
+180,1.A.1.b.5,Inductive Reasoning,4.A.4.b.6,Providing Consultation and Advice to Others
+181,1.A.1.b.5,Inductive Reasoning,4.A.4.c.2,Staffing Organizational Units
+182,1.A.1.b.6,Information Ordering,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+183,1.A.1.b.6,Information Ordering,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+184,1.A.1.b.6,Information Ordering,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+185,1.A.1.b.6,Information Ordering,4.A.2.a.2,Processing Information
+186,1.A.1.b.6,Information Ordering,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+187,1.A.1.b.6,Information Ordering,4.A.2.a.4,Analyzing Data or Information
+188,1.A.1.b.6,Information Ordering,4.A.2.b.1,Making Decisions and Solving Problems
+189,1.A.1.b.6,Information Ordering,4.A.2.b.5,Scheduling Work and Activities
+190,1.A.1.b.6,Information Ordering,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work"
+191,1.A.1.b.6,Information Ordering,4.A.3.b.1,Working with Computers
+192,1.A.1.b.6,Information Ordering,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+193,1.A.1.b.6,Information Ordering,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+194,1.A.1.b.6,Information Ordering,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+195,1.A.1.b.6,Information Ordering,4.A.3.b.6,Documenting/Recording Information
+196,1.A.1.b.6,Information Ordering,4.A.4.a.1,Interpreting the Meaning of Information for Others
+197,1.A.1.b.6,Information Ordering,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+198,1.A.1.b.6,Information Ordering,4.A.4.a.3,Communicating with People Outside the Organization
+199,1.A.1.b.6,Information Ordering,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+200,1.A.1.b.6,Information Ordering,4.A.4.b.1,Coordinating the Work and Activities of Others
+201,1.A.1.b.6,Information Ordering,4.A.4.b.3,Training and Teaching Others
+202,1.A.1.b.6,Information Ordering,4.A.4.b.6,Providing Consultation and Advice to Others
+203,1.A.1.b.6,Information Ordering,4.A.4.c.1,Performing Administrative Activities
+204,1.A.1.b.6,Information Ordering,4.A.4.c.2,Staffing Organizational Units
+205,1.A.1.b.6,Information Ordering,4.A.4.c.3,Monitoring and Controlling Resources
+206,1.A.1.b.7,Category Flexibility,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+207,1.A.1.b.7,Category Flexibility,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+208,1.A.1.b.7,Category Flexibility,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+209,1.A.1.b.7,Category Flexibility,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People"
+210,1.A.1.b.7,Category Flexibility,4.A.2.a.2,Processing Information
+211,1.A.1.b.7,Category Flexibility,4.A.2.a.4,Analyzing Data or Information
+212,1.A.1.b.7,Category Flexibility,4.A.2.b.1,Making Decisions and Solving Problems
+213,1.A.1.b.7,Category Flexibility,4.A.2.b.2,Thinking Creatively
+214,1.A.1.b.7,Category Flexibility,4.A.2.b.4,Developing Objectives and Strategies
+215,1.A.1.b.7,Category Flexibility,4.A.2.b.5,Scheduling Work and Activities
+216,1.A.1.b.7,Category Flexibility,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work"
+217,1.A.1.b.7,Category Flexibility,4.A.3.b.6,Documenting/Recording Information
+218,1.A.1.b.7,Category Flexibility,4.A.4.a.1,Interpreting the Meaning of Information for Others
+219,1.A.1.b.7,Category Flexibility,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+220,1.A.1.b.7,Category Flexibility,4.A.4.b.1,Coordinating the Work and Activities of Others
+221,1.A.1.b.7,Category Flexibility,4.A.4.b.3,Training and Teaching Others
+222,1.A.1.b.7,Category Flexibility,4.A.4.b.6,Providing Consultation and Advice to Others
+223,1.A.1.b.7,Category Flexibility,4.A.4.c.1,Performing Administrative Activities
+224,1.A.1.b.7,Category Flexibility,4.A.4.c.2,Staffing Organizational Units
+225,1.A.1.c.1,Mathematical Reasoning,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+226,1.A.1.c.1,Mathematical Reasoning,4.A.2.a.2,Processing Information
+227,1.A.1.c.2,Number Facility,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+228,1.A.1.c.2,Number Facility,4.A.2.a.2,Processing Information
+229,1.A.1.c.2,Number Facility,4.A.4.c.3,Monitoring and Controlling Resources
+230,1.A.1.d.1,Memorization,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+231,1.A.1.d.1,Memorization,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+232,1.A.1.d.1,Memorization,4.A.4.a.8,Performing for or Working Directly with the Public
+233,1.A.1.d.1,Memorization,4.A.4.b.3,Training and Teaching Others
+234,1.A.1.e.1,Speed of Closure,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+235,1.A.1.e.1,Speed of Closure,4.A.4.a.6,Selling or Influencing Others
+236,1.A.1.e.1,Speed of Closure,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+237,1.A.1.e.2,Flexibility of Closure,4.A.1.a.1,Getting Information
+238,1.A.1.e.2,Flexibility of Closure,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+239,1.A.1.e.2,Flexibility of Closure,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+240,1.A.1.e.2,Flexibility of Closure,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+241,1.A.1.e.2,Flexibility of Closure,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+242,1.A.1.e.2,Flexibility of Closure,4.A.2.a.2,Processing Information
+243,1.A.1.e.2,Flexibility of Closure,4.A.2.b.1,Making Decisions and Solving Problems
+244,1.A.1.e.3,Perceptual Speed,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+245,1.A.1.e.3,Perceptual Speed,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+246,1.A.1.e.3,Perceptual Speed,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+247,1.A.1.e.3,Perceptual Speed,4.A.2.a.2,Processing Information
+248,1.A.1.e.3,Perceptual Speed,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+249,1.A.1.e.3,Perceptual Speed,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+250,1.A.1.e.3,Perceptual Speed,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+251,1.A.1.f.1,Spatial Orientation,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+252,1.A.1.f.2,Visualization,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+253,1.A.1.f.2,Visualization,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+254,1.A.1.f.2,Visualization,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+255,1.A.1.f.2,Visualization,4.A.2.b.2,Thinking Creatively
+256,1.A.1.f.2,Visualization,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+257,1.A.1.f.2,Visualization,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+258,1.A.1.f.2,Visualization,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+259,1.A.1.f.2,Visualization,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+260,1.A.1.g.1,Selective Attention,4.A.1.a.1,Getting Information
+261,1.A.1.g.1,Selective Attention,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+262,1.A.1.g.1,Selective Attention,4.A.2.a.4,Analyzing Data or Information
+263,1.A.1.g.1,Selective Attention,4.A.2.b.1,Making Decisions and Solving Problems
+264,1.A.1.g.1,Selective Attention,4.A.2.b.2,Thinking Creatively
+265,1.A.1.g.1,Selective Attention,4.A.3.b.1,Working with Computers
+266,1.A.1.g.1,Selective Attention,4.A.3.b.6,Documenting/Recording Information
+267,1.A.1.g.1,Selective Attention,4.A.4.a.8,Performing for or Working Directly with the Public
+268,1.A.1.g.1,Selective Attention,4.A.4.b.3,Training and Teaching Others
+269,1.A.1.g.2,Time Sharing,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+270,1.A.1.g.2,Time Sharing,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+271,1.A.1.g.2,Time Sharing,4.A.4.a.8,Performing for or Working Directly with the Public
+272,1.A.2.a.1,Arm-Hand Steadiness,4.A.3.a.2,Handling and Moving Objects
+273,1.A.2.a.1,Arm-Hand Steadiness,4.A.3.a.3,Controlling Machines and Processes
+274,1.A.2.a.1,Arm-Hand Steadiness,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+275,1.A.2.a.1,Arm-Hand Steadiness,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+276,1.A.2.a.1,Arm-Hand Steadiness,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+277,1.A.2.a.2,Manual Dexterity,4.A.3.a.2,Handling and Moving Objects
+278,1.A.2.a.2,Manual Dexterity,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+279,1.A.2.a.2,Manual Dexterity,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+280,1.A.2.a.3,Finger Dexterity,4.A.3.a.2,Handling and Moving Objects
+281,1.A.2.a.3,Finger Dexterity,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+282,1.A.2.a.3,Finger Dexterity,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+283,1.A.2.b.1,Control Precision,4.A.3.a.3,Controlling Machines and Processes
+284,1.A.2.b.1,Control Precision,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+285,1.A.2.b.1,Control Precision,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+286,1.A.2.b.1,Control Precision,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+287,1.A.2.b.2,Multilimb Coordination,4.A.3.a.1,Performing General Physical Activities
+288,1.A.2.b.2,Multilimb Coordination,4.A.3.a.2,Handling and Moving Objects
+289,1.A.2.b.2,Multilimb Coordination,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+290,1.A.2.b.3,Response Orientation,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+291,1.A.2.b.4,Rate Control,4.A.3.a.3,Controlling Machines and Processes
+292,1.A.2.b.4,Rate Control,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+293,1.A.2.c.1,Reaction Time,4.A.3.a.3,Controlling Machines and Processes
+294,1.A.2.c.1,Reaction Time,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+295,1.A.2.c.2,Wrist-Finger Speed,4.A.3.b.6,Documenting/Recording Information
+296,1.A.3.a.1,Static Strength,4.A.3.a.1,Performing General Physical Activities
+297,1.A.3.a.1,Static Strength,4.A.3.a.2,Handling and Moving Objects
+298,1.A.3.a.2,Explosive Strength,4.A.3.a.1,Performing General Physical Activities
+299,1.A.3.a.2,Explosive Strength,4.A.3.a.2,Handling and Moving Objects
+300,1.A.3.a.3,Dynamic Strength,4.A.3.a.1,Performing General Physical Activities
+301,1.A.3.a.4,Trunk Strength,4.A.3.a.1,Performing General Physical Activities
+302,1.A.3.a.4,Trunk Strength,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+303,1.A.3.b.1,Stamina,4.A.3.a.1,Performing General Physical Activities
+304,1.A.3.c.1,Extent Flexibility,4.A.3.a.1,Performing General Physical Activities
+305,1.A.3.c.1,Extent Flexibility,4.A.3.a.2,Handling and Moving Objects
+306,1.A.3.c.1,Extent Flexibility,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+307,1.A.3.c.1,Extent Flexibility,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+308,1.A.3.c.3,Gross Body Coordination,4.A.3.a.1,Performing General Physical Activities
+309,1.A.3.c.4,Gross Body Equilibrium,4.A.3.a.1,Performing General Physical Activities
+310,1.A.4.a.1,Near Vision,4.A.1.a.1,Getting Information
+311,1.A.4.a.1,Near Vision,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+312,1.A.4.a.1,Near Vision,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+313,1.A.4.a.1,Near Vision,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+314,1.A.4.a.1,Near Vision,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+315,1.A.4.a.1,Near Vision,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People"
+316,1.A.4.a.1,Near Vision,4.A.2.a.2,Processing Information
+317,1.A.4.a.1,Near Vision,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards
+318,1.A.4.a.1,Near Vision,4.A.3.a.3,Controlling Machines and Processes
+319,1.A.4.a.1,Near Vision,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+320,1.A.4.a.1,Near Vision,4.A.3.b.1,Working with Computers
+321,1.A.4.a.1,Near Vision,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment"
+322,1.A.4.a.1,Near Vision,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment
+323,1.A.4.a.1,Near Vision,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+324,1.A.4.a.1,Near Vision,4.A.3.b.6,Documenting/Recording Information
+325,1.A.4.a.1,Near Vision,4.A.4.c.1,Performing Administrative Activities
+326,1.A.4.a.2,Far Vision,4.A.1.a.1,Getting Information
+327,1.A.4.a.2,Far Vision,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+328,1.A.4.a.2,Far Vision,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+329,1.A.4.a.2,Far Vision,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+330,1.A.4.a.2,Far Vision,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+331,1.A.4.a.2,Far Vision,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+332,1.A.4.a.3,Visual Color Discrimination,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+333,1.A.4.a.3,Visual Color Discrimination,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+334,1.A.4.a.3,Visual Color Discrimination,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+335,1.A.4.a.3,Visual Color Discrimination,4.A.3.b.5,Repairing and Maintaining Electronic Equipment
+336,1.A.4.a.4,Night Vision,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+337,1.A.4.a.5,Peripheral Vision,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+338,1.A.4.a.6,Depth Perception,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+339,1.A.4.a.6,Depth Perception,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information"
+340,1.A.4.a.6,Depth Perception,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+341,1.A.4.a.7,Glare Sensitivity,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+342,1.A.4.b.1,Hearing Sensitivity,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+343,1.A.4.b.1,Hearing Sensitivity,4.A.1.b.1,"Identifying Objects, Actions, and Events"
+344,1.A.4.b.1,Hearing Sensitivity,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+345,1.A.4.b.1,Hearing Sensitivity,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+346,1.A.4.b.2,Auditory Attention,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings"
+347,1.A.4.b.2,Auditory Attention,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials"
+348,1.A.4.b.2,Auditory Attention,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+349,1.A.4.b.2,Auditory Attention,4.A.4.a.8,Performing for or Working Directly with the Public
+350,1.A.4.b.3,Sound Localization,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment"
+351,1.A.4.b.4,Speech Recognition,4.A.1.a.1,Getting Information
+352,1.A.4.b.4,Speech Recognition,4.A.4.a.1,Interpreting the Meaning of Information for Others
+353,1.A.4.b.4,Speech Recognition,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+354,1.A.4.b.4,Speech Recognition,4.A.4.a.3,Communicating with People Outside the Organization
+355,1.A.4.b.4,Speech Recognition,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships
+356,1.A.4.b.4,Speech Recognition,4.A.4.a.5,Assisting and Caring for Others
+357,1.A.4.b.4,Speech Recognition,4.A.4.a.6,Selling or Influencing Others
+358,1.A.4.b.4,Speech Recognition,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+359,1.A.4.b.4,Speech Recognition,4.A.4.a.8,Performing for or Working Directly with the Public
+360,1.A.4.b.4,Speech Recognition,4.A.4.b.1,Coordinating the Work and Activities of Others
+361,1.A.4.b.4,Speech Recognition,4.A.4.b.2,Developing and Building Teams
+362,1.A.4.b.4,Speech Recognition,4.A.4.b.3,Training and Teaching Others
+363,1.A.4.b.4,Speech Recognition,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+364,1.A.4.b.4,Speech Recognition,4.A.4.b.5,Coaching and Developing Others
+365,1.A.4.b.4,Speech Recognition,4.A.4.b.6,Providing Consultation and Advice to Others
+366,1.A.4.b.4,Speech Recognition,4.A.4.c.2,Staffing Organizational Units
+367,1.A.4.b.5,Speech Clarity,4.A.4.a.1,Interpreting the Meaning of Information for Others
+368,1.A.4.b.5,Speech Clarity,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates"
+369,1.A.4.b.5,Speech Clarity,4.A.4.a.3,Communicating with People Outside the Organization
+370,1.A.4.b.5,Speech Clarity,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships
+371,1.A.4.b.5,Speech Clarity,4.A.4.a.5,Assisting and Caring for Others
+372,1.A.4.b.5,Speech Clarity,4.A.4.a.6,Selling or Influencing Others
+373,1.A.4.b.5,Speech Clarity,4.A.4.a.7,Resolving Conflicts and Negotiating with Others
+374,1.A.4.b.5,Speech Clarity,4.A.4.a.8,Performing for or Working Directly with the Public
+375,1.A.4.b.5,Speech Clarity,4.A.4.b.1,Coordinating the Work and Activities of Others
+376,1.A.4.b.5,Speech Clarity,4.A.4.b.2,Developing and Building Teams
+377,1.A.4.b.5,Speech Clarity,4.A.4.b.3,Training and Teaching Others
+378,1.A.4.b.5,Speech Clarity,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates"
+379,1.A.4.b.5,Speech Clarity,4.A.4.b.5,Coaching and Developing Others
+380,1.A.4.b.5,Speech Clarity,4.A.4.b.6,Providing Consultation and Advice to Others
+381,1.A.4.b.5,Speech Clarity,4.A.4.c.2,Staffing Organizational Units
