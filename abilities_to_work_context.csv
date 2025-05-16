@@ -1,0 +1,140 @@
+﻿PK,Abilities Element ID,Abilities Element Name,Work Context Element ID,Work Context Element Name
+1,1.A.1.a.1,Oral Comprehension,4.C.1.a.2.c,Public Speaking
+2,1.A.1.a.1,Oral Comprehension,4.C.1.a.2.f,Telephone Conversations
+3,1.A.1.a.1,Oral Comprehension,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams
+4,1.A.1.a.1,Oral Comprehension,4.C.1.a.4,Contact With Others
+5,1.A.1.a.1,Oral Comprehension,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team
+6,1.A.1.a.1,Oral Comprehension,4.C.1.b.1.f,Deal With External Customers or the Public in General
+7,1.A.1.a.1,Oral Comprehension,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+8,1.A.1.a.1,Oral Comprehension,4.C.1.c.1,Health and Safety of Other Workers
+9,1.A.1.a.1,Oral Comprehension,4.C.1.c.2,Work Outcomes and Results of Other Workers
+10,1.A.1.a.1,Oral Comprehension,4.C.1.d.1,Conflict Situations
+11,1.A.1.a.1,Oral Comprehension,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+12,1.A.1.a.1,Oral Comprehension,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+13,1.A.1.a.2,Written Comprehension,4.C.1.a.2.h,E-Mail
+14,1.A.1.a.2,Written Comprehension,4.C.1.a.2.j,Written Letters and Memos
+15,1.A.1.a.3,Oral Expression,4.C.1.a.2.c,Public Speaking
+16,1.A.1.a.3,Oral Expression,4.C.1.a.2.f,Telephone Conversations
+17,1.A.1.a.3,Oral Expression,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams
+18,1.A.1.a.3,Oral Expression,4.C.1.a.4,Contact With Others
+19,1.A.1.a.3,Oral Expression,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team
+20,1.A.1.a.3,Oral Expression,4.C.1.b.1.f,Deal With External Customers or the Public in General
+21,1.A.1.a.3,Oral Expression,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+22,1.A.1.a.3,Oral Expression,4.C.1.c.1,Health and Safety of Other Workers
+23,1.A.1.a.3,Oral Expression,4.C.1.c.2,Work Outcomes and Results of Other Workers
+24,1.A.1.a.3,Oral Expression,4.C.1.d.1,Conflict Situations
+25,1.A.1.a.3,Oral Expression,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+26,1.A.1.a.3,Oral Expression,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+27,1.A.1.a.4,Written Expression,4.C.1.a.2.h,E-Mail
+28,1.A.1.a.4,Written Expression,4.C.1.a.2.j,Written Letters and Memos
+29,1.A.1.a.4,Written Expression,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+30,1.A.1.b.3,Problem Sensitivity,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams
+31,1.A.1.b.3,Problem Sensitivity,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team
+32,1.A.1.b.3,Problem Sensitivity,4.C.1.b.1.f,Deal With External Customers or the Public in General
+33,1.A.1.b.3,Problem Sensitivity,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+34,1.A.1.b.3,Problem Sensitivity,4.C.1.c.1,Health and Safety of Other Workers
+35,1.A.1.b.3,Problem Sensitivity,4.C.1.c.2,Work Outcomes and Results of Other Workers
+36,1.A.1.b.3,Problem Sensitivity,4.C.1.d.1,Conflict Situations
+37,1.A.1.b.3,Problem Sensitivity,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+38,1.A.1.b.3,Problem Sensitivity,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+39,1.A.1.b.3,Problem Sensitivity,4.C.3.a.1,Consequence of Error
+40,1.A.1.b.3,Problem Sensitivity,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results
+41,1.A.1.b.3,Problem Sensitivity,4.C.3.a.4,Freedom to Make Decisions
+42,1.A.1.b.3,Problem Sensitivity,4.C.3.b.8,"Determine Tasks, Priorities and Goals"
+43,1.A.1.b.3,Problem Sensitivity,4.C.3.c.1,Level of Competition
+44,1.A.1.b.4,Deductive Reasoning,4.C.1.b.1.f,Deal With External Customers or the Public in General
+45,1.A.1.b.4,Deductive Reasoning,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+46,1.A.1.b.4,Deductive Reasoning,4.C.1.d.1,Conflict Situations
+47,1.A.1.b.4,Deductive Reasoning,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+48,1.A.1.b.4,Deductive Reasoning,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+49,1.A.1.b.4,Deductive Reasoning,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results
+50,1.A.1.b.4,Deductive Reasoning,4.C.3.a.4,Freedom to Make Decisions
+51,1.A.1.b.4,Deductive Reasoning,4.C.3.b.8,"Determine Tasks, Priorities and Goals"
+52,1.A.1.b.4,Deductive Reasoning,4.C.3.c.1,Level of Competition
+53,1.A.1.b.5,Inductive Reasoning,4.C.1.b.1.f,Deal With External Customers or the Public in General
+54,1.A.1.b.5,Inductive Reasoning,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+55,1.A.1.b.5,Inductive Reasoning,4.C.1.d.1,Conflict Situations
+56,1.A.1.b.5,Inductive Reasoning,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+57,1.A.1.b.5,Inductive Reasoning,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results
+58,1.A.1.b.5,Inductive Reasoning,4.C.3.a.4,Freedom to Make Decisions
+59,1.A.1.b.5,Inductive Reasoning,4.C.3.b.8,"Determine Tasks, Priorities and Goals"
+60,1.A.1.b.5,Inductive Reasoning,4.C.3.c.1,Level of Competition
+61,1.A.1.b.6,Information Ordering,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+62,1.A.1.b.7,Category Flexibility,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+63,1.A.1.g.1,Selective Attention,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams
+64,1.A.1.g.1,Selective Attention,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable"
+65,1.A.1.g.1,Selective Attention,4.C.3.b.7,Importance of Repeating Same Tasks
+66,1.A.1.g.1,Selective Attention,4.C.3.d.3,Pace Determined by Speed of Equipment
+67,1.A.1.g.2,Time Sharing,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+68,1.A.2.a.1,Arm-Hand Steadiness,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls"
+69,1.A.2.a.2,Manual Dexterity,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+70,1.A.2.a.2,Manual Dexterity,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles"
+71,1.A.2.a.2,Manual Dexterity,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls"
+72,1.A.2.a.3,Finger Dexterity,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls"
+73,1.A.2.b.1,Control Precision,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls"
+74,1.A.2.b.2,Multilimb Coordination,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+75,1.A.2.b.3,Response Orientation,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+76,1.A.2.b.4,Rate Control,4.C.3.d.3,Pace Determined by Speed of Equipment
+77,1.A.2.c.1,Reaction Time,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+78,1.A.2.c.1,Reaction Time,4.C.2.c.1.e,Exposed to Hazardous Equipment
+79,1.A.2.c.1,Reaction Time,4.C.3.d.3,Pace Determined by Speed of Equipment
+80,1.A.2.c.3,Speed of Limb Movement,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+81,1.A.3.a.1,Static Strength,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+82,1.A.3.a.2,Explosive Strength,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+83,1.A.3.a.2,Explosive Strength,4.C.2.d.1.d,Spend Time Walking or Running
+84,1.A.3.a.3,Dynamic Strength,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+85,1.A.3.a.3,Dynamic Strength,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles"
+86,1.A.3.a.3,Dynamic Strength,4.C.2.d.1.i,Spend Time Making Repetitive Motions
+87,1.A.3.a.4,Trunk Strength,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+88,1.A.3.a.4,Trunk Strength,4.C.2.b.1.f,Exposed to Whole Body Vibration
+89,1.A.3.a.4,Trunk Strength,4.C.2.d.1.a,Spend Time Sitting
+90,1.A.3.a.4,Trunk Strength,4.C.2.d.1.b,Spend Time Standing
+91,1.A.3.a.4,Trunk Strength,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles"
+92,1.A.3.a.4,Trunk Strength,4.C.2.d.1.d,Spend Time Walking or Running
+93,1.A.3.a.4,Trunk Strength,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling"
+94,1.A.3.a.4,Trunk Strength,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance
+95,1.A.3.b.1,Stamina,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+96,1.A.3.b.1,Stamina,4.C.2.d.1.d,Spend Time Walking or Running
+97,1.A.3.c.1,Extent Flexibility,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+98,1.A.3.c.1,Extent Flexibility,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions"
+99,1.A.3.c.1,Extent Flexibility,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles"
+100,1.A.3.c.1,Extent Flexibility,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling"
+101,1.A.3.c.1,Extent Flexibility,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body
+102,1.A.3.c.3,Gross Body Coordination,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+103,1.A.3.c.3,Gross Body Coordination,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles"
+104,1.A.3.c.3,Gross Body Coordination,4.C.2.d.1.d,Spend Time Walking or Running
+105,1.A.3.c.3,Gross Body Coordination,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling"
+106,1.A.3.c.4,Gross Body Equilibrium,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+107,1.A.3.c.4,Gross Body Equilibrium,4.C.2.c.1.c,Exposed to High Places
+108,1.A.3.c.4,Gross Body Equilibrium,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles"
+109,1.A.3.c.4,Gross Body Equilibrium,4.C.2.d.1.d,Spend Time Walking or Running
+110,1.A.3.c.4,Gross Body Equilibrium,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling"
+111,1.A.3.c.4,Gross Body Equilibrium,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance
+112,1.A.3.c.4,Gross Body Equilibrium,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body
+113,1.A.4.a.1,Near Vision,4.C.1.a.2.h,E-Mail
+114,1.A.4.a.1,Near Vision,4.C.2.c.1.e,Exposed to Hazardous Equipment
+115,1.A.4.a.7,Glare Sensitivity,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions
+116,1.A.4.b.2,Auditory Attention,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable"
+117,1.A.4.b.4,Speech Recognition,4.C.1.a.2.f,Telephone Conversations
+118,1.A.4.b.4,Speech Recognition,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams
+119,1.A.4.b.4,Speech Recognition,4.C.1.a.4,Contact With Others
+120,1.A.4.b.4,Speech Recognition,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team
+121,1.A.4.b.4,Speech Recognition,4.C.1.b.1.f,Deal With External Customers or the Public in General
+122,1.A.4.b.4,Speech Recognition,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+123,1.A.4.b.4,Speech Recognition,4.C.1.c.1,Health and Safety of Other Workers
+124,1.A.4.b.4,Speech Recognition,4.C.1.c.2,Work Outcomes and Results of Other Workers
+125,1.A.4.b.4,Speech Recognition,4.C.1.d.1,Conflict Situations
+126,1.A.4.b.4,Speech Recognition,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+127,1.A.4.b.4,Speech Recognition,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
+128,1.A.4.b.5,Speech Clarity,4.C.1.a.2.c,Public Speaking
+129,1.A.4.b.5,Speech Clarity,4.C.1.a.2.f,Telephone Conversations
+130,1.A.4.b.5,Speech Clarity,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams
+131,1.A.4.b.5,Speech Clarity,4.C.1.a.4,Contact With Others
+132,1.A.4.b.5,Speech Clarity,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team
+133,1.A.4.b.5,Speech Clarity,4.C.1.b.1.f,Deal With External Customers or the Public in General
+134,1.A.4.b.5,Speech Clarity,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities
+135,1.A.4.b.5,Speech Clarity,4.C.1.c.1,Health and Safety of Other Workers
+136,1.A.4.b.5,Speech Clarity,4.C.1.c.2,Work Outcomes and Results of Other Workers
+137,1.A.4.b.5,Speech Clarity,4.C.1.d.1,Conflict Situations
+138,1.A.4.b.5,Speech Clarity,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People"
+139,1.A.4.b.5,Speech Clarity,4.C.1.d.3,Dealing with Violent or Physically Aggressive People
