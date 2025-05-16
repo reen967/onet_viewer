@@ -1,69 +1,53 @@
 import streamlit as st
 import pandas as pd
 
-# --- Helper function for task automation classification ---
-def classify_task(text):
-    text = text.lower()
-    if any(word in text for word in ['enter', 'record', 'update']):
-        return 'Automatable', 'RPA'
-    elif any(word in text for word in ['lift', 'move', 'carry', 'transport']):
-        return 'Automatable', 'AGV / Robotic Arm'
-    elif any(word in text for word in ['inspect', 'sort']):
-        return 'Automatable', 'Computer Vision'
-    else:
-        return 'Human', 'Human-required'
+# Load O*NET datasets
+st.title("Role Recomposer: Tool-Driven Trait Mapping")
 
-# --- Streamlit UI ---
-st.title("Role Automation Recomposer + Tool-Driven Reconfiguration")
+tasks_file = st.file_uploader("Upload task_statements.csv", type="csv")
+tools_file = st.file_uploader("Upload tools_used.csv", type="csv")
+tasks_to_dwa_file = st.file_uploader("Upload tasks_to_dwa.csv", type="csv")
+dwa_map_file = st.file_uploader("Upload work_activities_to_iwa_to_dwa.csv", type="csv")
+abilities_link_file = st.file_uploader("Upload abilities_to_work_activities.csv", type="csv")
+abilities_file = st.file_uploader("Upload abilities.csv", type="csv")
 
-uploaded_tasks = st.file_uploader("Upload task_statements.csv", type="csv")
-uploaded_tools = st.file_uploader("Upload tools_used.csv", type="csv")
+if all([tasks_file, tools_file, tasks_to_dwa_file, dwa_map_file, abilities_link_file, abilities_file]):
+    tasks_df = pd.read_csv(tasks_file)
+    tools_df = pd.read_csv(tools_file)
+    tasks_to_dwa = pd.read_csv(tasks_to_dwa_file)
+    dwa_map = pd.read_csv(dwa_map_file)
+    ability_links = pd.read_csv(abilities_link_file)
+    ability_scores = pd.read_csv(abilities_file)
 
-if uploaded_tasks:
-    tasks_df = pd.read_csv(uploaded_tasks)
-    soc_code = st.text_input("Enter SOC Code (e.g. 53-7062.00)")
+    soc_input = st.text_input("Enter SOC Code to analyze (e.g. 53-7062.00)")
+    selected_tool = st.selectbox("Select a tool to simulate", tools_df["Commodity Title"].dropna().unique())
 
-    if soc_code:
-        # Filter for selected SOC code
-        role_tasks = tasks_df[tasks_df['O*NET-SOC Code'] == soc_code]
+    if soc_input and selected_tool:
+        # SOCs that use the tool
+        socs_with_tool = tools_df[tools_df["Commodity Title"] == selected_tool]["O*NET-SOC Code"].unique()
 
-        if role_tasks.empty:
-            st.warning("No tasks found for this SOC code.")
-        else:
-            # Automation classification
-            role_tasks['Classification'], role_tasks['Suggested Tech'] = zip(*role_tasks['Task Title'].map(classify_task))
-            auto_percent = (role_tasks['Classification'] == 'Automatable').mean() * 100
+        # DWAs linked to those SOCs
+        dw_tasks = tasks_df[tasks_df["O*NET-SOC Code"].isin(socs_with_tool)]
+        dw_dwas = tasks_to_dwa[tasks_to_dwa["Task ID"].isin(dw_tasks["Task ID"])][["DWA ID", "DWA Title"]].drop_duplicates()
 
-            st.subheader(f"Tasks Automatable: {auto_percent:.1f}%")
-            st.dataframe(role_tasks[['Task Title', 'Classification', 'Suggested Tech']])
+        # Work activities linked to DWAs
+        dw_was = dwa_map[dwa_map["DWA Element ID"].isin(dw_dwas["DWA ID"])][["Work Activities Element Name"]].drop_duplicates()
 
-            retained = role_tasks[role_tasks['Classification'] == 'Human']
+        # Abilities linked to work activities
+        relevant_abilities = ability_links[ability_links["Work Activities Element Name"].isin(dw_was["Work Activities Element Name"])]
+        ability_names = relevant_abilities["Abilities Element Name"].unique()
 
-            st.subheader("Retained Human Tasks")
-            st.write(retained['Task Title'].tolist())
+        # Compare to base SOC's ability scores
+        soc_abilities = ability_scores[ability_scores["O*NET-SOC Code"] == soc_input]
+        soc_ability_subset = soc_abilities[soc_abilities["Abilities Element Name"].isin(ability_names)]
 
-            # TOOL EXTENSION
-            if uploaded_tools:
-                tools_df = pd.read_csv(uploaded_tools)
-                available_tools = tools_df['Commodity Title'].dropna().unique().tolist()
-                selected_tools = st.multiselect("Select tools to incorporate into this role", sorted(available_tools))
+        # Mark new vs already present
+        soc_ability_subset["Already Required"] = "Yes"
+        unmatched = set(ability_names) - set(soc_ability_subset["Abilities Element Name"])
+        additional_abilities = pd.DataFrame({"Abilities Element Name": list(unmatched), "Already Required": "No"})
 
-                if selected_tools:
-                    # Find all SOC codes linked to the selected tools
-                    matching_rows = tools_df[tools_df['Commodity Title'].isin(selected_tools)]
-                    tool_socs = matching_rows['O*NET-SOC Code'].unique()
+        all_abilities = pd.concat([soc_ability_subset[["Abilities Element Name", "Scale Name", "Data Value", "Already Required"]],
+                                   additional_abilities], ignore_index=True)
 
-                    # Pull new tasks from task_df for any of those SOCs
-                    new_tasks = tasks_df[tasks_df['O*NET-SOC Code'].isin(tool_socs)]
-
-                    # Remove duplicates and already-retained tasks
-                    new_task_texts = set(new_tasks['Task Title']) - set(retained['Task Title'])
-                    new_tasks_filtered = new_tasks[new_tasks['Task Title'].isin(new_task_texts)]
-
-                    st.subheader("Tool-Enabled Tasks")
-                    st.write(new_tasks_filtered['Task Title'].drop_duplicates().tolist())
-
-                    st.subheader("Updated Role Summary")
-                    total_tasks = list(retained['Task Title']) + list(new_tasks_filtered['Task Title'].drop_duplicates())
-                    st.write(total_tasks)
-
+        st.subheader(f"Abilities Impacted by Adding: {selected_tool}")
+        st.dataframe(all_abilities.sort_values(by="Already Required", ascending=False).reset_index(drop=True))
