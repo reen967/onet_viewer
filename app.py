@@ -66,3 +66,4 @@ if uploaded_tasks:
                     st.subheader("Updated Role Summary")
                     total_tasks = list(retained['Task Title']) + list(new_tasks_filtered['Task Title'].drop_duplicates())
                     st.write(total_tasks)
+
