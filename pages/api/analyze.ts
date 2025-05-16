@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import csvParse from 'csv-parse/lib/sync';
 
-const dataDir = path.join(process.cwd(), 'public', 'data');
+const dataDir = process.cwd();
 
 function loadCSV(fileName: string) {
   const filePath = path.join(dataDir, fileName);
@@ -31,7 +31,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const { soc } = req.query;
   if (!soc || typeof soc !== 'string') return res.status(400).json({ error: 'SOC code required' });
 
-  const tasks = loadCSV('task_statements.csv');
+const tasks = loadCSV('task_statements.csv');
 
   const relevantTasks = tasks.filter((t: any) => t['O*NET-SOC Code'] === soc);
   const processed = relevantTasks.map((t: any) => {
